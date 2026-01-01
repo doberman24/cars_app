@@ -1,8 +1,29 @@
 # Cars
 
-Frontend is written in react, Backend is written in node.js . The work with a database consisting of a single table is organized. The functionality for viewing content, searching, and creating a new table element is implemented. As well as editing and deleting elements
+Fullstack web application for managing a car database.
 
-**An example of the work of the project can be viewed at the link http://cars.lixit.ru.**
+## Description
+
+The project implements basic CRUD functionality:
+- viewing a list of cars
+- searching data
+- creating new records
+- updating and deleting existing records
+
+The frontend is built with React, and the backend is implemented using Node.js.
+Data is stored in a MySQL database.
+
+## Technologies
+
+- React
+- JavaScript
+- Node.js
+- Express
+- MySQL
+
+## Website
+
+http://cars.lixit.ru
 
 ## To deploy a project:
 
